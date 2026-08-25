@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31441417/README.md)
+
 # Active Directory Security Monitoring with Wazuh
 
 ## Objective
